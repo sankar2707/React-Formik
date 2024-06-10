@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(48, 48, 48);
+  font-family: "Josefin Sans", sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1481627834876-b7833e8f5570?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  font-weight: bolder;
+  color: rgb(20, 16, 24);
+
+  overflow: hidden;
+  object-fit: cover;
+}
+.gradient-bg {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#dd0a73, #a50282);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradient-bg2 {
+  font-weight: bolder;
+  font-size: 35px;
+  background: rgb(12, 20, 126);
+  font-weight: bolder;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
